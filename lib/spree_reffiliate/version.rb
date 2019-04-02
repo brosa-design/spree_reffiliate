@@ -9,7 +9,7 @@ module SpreeReffiliate
 
   module VERSION
     MAJOR = 3
-    MINOR = 1
+    MINOR = 7
     TINY  = 0
     PRE   = nil
 
